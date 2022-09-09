@@ -172,7 +172,7 @@ header figure {
   width: 60%;
   display: flex;
   justify-content: center;
-  align-items: centerl
+  align-items: center;
   flex-flow: row wrap;
 }
 
@@ -321,6 +321,11 @@ input[type=button] {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
+}
+
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
 }
 
 .features p {
